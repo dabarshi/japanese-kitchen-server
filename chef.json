@@ -23,7 +23,7 @@
             },
             {
                 "recipeName": "Sushi Rolls",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1617196034183-421b4917c92d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80",
                 "ingredients": [
                     "sushi rice",
                     "nori sheets",
@@ -36,7 +36,7 @@
             },
             {
                 "recipeName": "Beef Teriyaki",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1678684277915-5d3f48977b87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1220&q=80",
                 "ingredients": [
                     "sirloin steak",
                     "soy sauce",
@@ -60,7 +60,7 @@
         "recipes": [
             {
                 "recipeName": "Sushi Rolls",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1617196034183-421b4917c92d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80",
                 "ingredients": [
                     "sushi rice",
                     "nori sheets",
@@ -73,7 +73,7 @@
             },
             {
                 "recipeName": "Beef Teriyaki",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1678684277915-5d3f48977b87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1220&q=80",
                 "ingredients": [
                     "sirloin steak",
                     "soy sauce",
@@ -86,7 +86,7 @@
             },
             {
                 "recipeName": "Tonkatsu",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1625189657980-b419b768b0f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80",
                 "ingredients": [
                     "pork cutlet",
                     "flour",
@@ -99,7 +99,7 @@
             },
             {
                 "recipeName": "Okonomiyaki",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1629579436553-6b34e5ddd9de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
                 "ingredients": [
                     "flour",
                     "eggs",
@@ -112,7 +112,7 @@
             },
             {
                 "recipeName": "Yakitori",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1563118946-9d60eae4a82d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
                 "ingredients": [
                     "chicken thighs",
                     "scallions",
@@ -131,7 +131,7 @@
         "name": "Hiroyuki Sakai",
         "experience": 25,
         "likes": 12000,
-        "numberOfRecipes": 8,
+        "numberOfRecipes": 12,
         "bio": "Hiroyuki Sakai is a renowned French-trained Japanese chef and owner of the two Michelin star restaurant La Rochelle in Japan. He is widely known for his creative and innovative dishes that blend French and Japanese culinary traditions. He has also been a regular on the Japanese cooking competition show Iron Chef, where he has achieved great success.",
         "recipes": [
             {
@@ -149,7 +149,7 @@
             },
             {
                 "recipeName": "Sushi Rolls",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1617196034183-421b4917c92d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80",
                 "ingredients": [
                     "sushi rice",
                     "nori sheets",
@@ -162,7 +162,7 @@
             },
             {
                 "recipeName": "Beef Teriyaki",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1678684277915-5d3f48977b87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1220&q=80",
                 "ingredients": [
                     "sirloin steak",
                     "soy sauce",
@@ -175,7 +175,7 @@
             },
             {
                 "recipeName": "Tonkatsu",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1625189657980-b419b768b0f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80",
                 "ingredients": [
                     "pork cutlet",
                     "flour",
@@ -188,7 +188,7 @@
             },
             {
                 "recipeName": "Okonomiyaki",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1629579436553-6b34e5ddd9de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
                 "ingredients": [
                     "flour",
                     "eggs",
@@ -201,7 +201,7 @@
             },
             {
                 "recipeName": "Yakitori",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1563118946-9d60eae4a82d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
                 "ingredients": [
                     "chicken thighs",
                     "scallions",
@@ -214,7 +214,7 @@
             },
             {
                 "recipeName": "Miso Cod",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1604909052868-dd2ef1e53daa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
                 "ingredients": [
                     "black cod fillets",
                     "miso paste",
@@ -227,7 +227,7 @@
             },
             {
                 "recipeName": "Tempura",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1673238110633-876516a993c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
                 "ingredients": [
                     "shrimp",
                     "sweet potato",
@@ -239,21 +239,8 @@
                 "rating": 4.7
             },
             {
-                "recipeName": "Gyoza",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-                "ingredients": [
-                    "ground pork",
-                    "cabbage",
-                    "garlic",
-                    "ginger",
-                    "soy sauce"
-                ],
-                "method": "1. Mix ground pork, chopped cabbage, minced garlic, grated ginger, and soy sauce in a bowl. 2. Spoon mixture onto gyoza wrappers. 3. Fold and crimp edges to seal. 4. Pan-fry in oil until crispy. 5. Serve hot with dipping sauce.",
-                "rating": 4.8
-            },
-            {
                 "recipeName": "Soba Noodle Salad",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://veganhuggs.com/wp-content/uploads/2022/06/Soba-Noodle-Salad.1.jpg",
                 "ingredients": [
                     "soba noodles",
                     "cucumber",
@@ -266,7 +253,7 @@
             },
             {
                 "recipeName": "Karaage",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://www.foodandwine.com/thmb/ISpoMdB6wy9ZPBq3Wbvy-aUyeJY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chicken-karaage-FT-RECIPE0621-7c333f0a5c2141e08f0e7f7b9fc1c5de.jpg",
                 "ingredients": [
                     "chicken thighs",
                     "soy sauce",
@@ -279,7 +266,7 @@
             },
             {
                 "recipeName": "Ramen",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Styled1.jpg",
                 "ingredients": [
                     "pork bones",
                     "chicken bones",
@@ -292,7 +279,7 @@
             },
             {
                 "recipeName": "Chirashi Sushi",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://www.justonecookbook.com/wp-content/uploads/2020/02/Chirashi-Sushi-7715-II.jpg",
                 "ingredients": [
                     "sushi rice",
                     "sashimi-grade fish",
@@ -316,6 +303,7 @@
         "recipes": [
             {
                 "recipeName": "Karaage",
+                "imgURL": "https://www.foodandwine.com/thmb/ISpoMdB6wy9ZPBq3Wbvy-aUyeJY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chicken-karaage-FT-RECIPE0621-7c333f0a5c2141e08f0e7f7b9fc1c5de.jpg",
                 "ingredients": [
                     "chicken thighs",
                     "soy sauce",
@@ -328,6 +316,7 @@
             },
             {
                 "recipeName": "Ramen",
+                "imgURL": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Styled1.jpg",
                 "ingredients": [
                     "pork bones",
                     "chicken bones",
@@ -340,6 +329,7 @@
             },
             {
                 "recipeName": "Chirashi Sushi",
+                "imgURL": "https://www.justonecookbook.com/wp-content/uploads/2020/02/Chirashi-Sushi-7715-II.jpg",
                 "ingredients": [
                     "sushi rice",
                     "sashimi-grade fish",
@@ -363,7 +353,7 @@
         "recipes": [
             {
                 "recipeName": "Karaage",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://www.foodandwine.com/thmb/ISpoMdB6wy9ZPBq3Wbvy-aUyeJY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chicken-karaage-FT-RECIPE0621-7c333f0a5c2141e08f0e7f7b9fc1c5de.jpg",
                 "ingredients": [
                     "chicken thighs",
                     "soy sauce",
@@ -376,7 +366,7 @@
             },
             {
                 "recipeName": "Ramen",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Styled1.jpg",
                 "ingredients": [
                     "pork bones",
                     "chicken bones",
@@ -389,7 +379,7 @@
             },
             {
                 "recipeName": "Chirashi Sushi",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://www.justonecookbook.com/wp-content/uploads/2020/02/Chirashi-Sushi-7715-II.jpg",
                 "ingredients": [
                     "sushi rice",
                     "sashimi-grade fish",
@@ -401,7 +391,7 @@
                 "rating": 4.7
             },            {
                 "recipeName": "Tempura",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1673238110633-876516a993c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
                 "ingredients": [
                     "shrimp",
                     "sweet potato",
@@ -420,12 +410,12 @@
         "name": "Tetsuya Wakuda",
         "experience": 30,
         "likes": 10000,
-        "numberOfRecipes": 6,
+        "numberOfRecipes": 4,
         "bio": "Tetsuya Wakuda is a highly acclaimed Australian-based Japanese chef who has been recognized with numerous awards and accolades. He is the owner and head chef of Tetsuya's, a fine dining restaurant in Sydney that has been awarded three Michelin stars. His signature dishes are characterized by their simplicity and focus on the purity of flavors. He is also known for his use of local Australian ingredients in his Japanese-inspired cuisine.",
         "recipes": [
             {
                 "recipeName": "Karaage",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://www.foodandwine.com/thmb/ISpoMdB6wy9ZPBq3Wbvy-aUyeJY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chicken-karaage-FT-RECIPE0621-7c333f0a5c2141e08f0e7f7b9fc1c5de.jpg",
                 "ingredients": [
                     "chicken thighs",
                     "soy sauce",
@@ -438,7 +428,7 @@
             },
             {
                 "recipeName": "Ramen",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Styled1.jpg",
                 "ingredients": [
                     "pork bones",
                     "chicken bones",
@@ -451,7 +441,7 @@
             },
             {
                 "recipeName": "Chirashi Sushi",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://www.justonecookbook.com/wp-content/uploads/2020/02/Chirashi-Sushi-7715-II.jpg",
                 "ingredients": [
                     "sushi rice",
                     "sashimi-grade fish",
@@ -463,7 +453,7 @@
                 "rating": 4.7
             },            {
                 "recipeName": "Tempura",
-                "imgURL": "https://images.unsplash.com/photo-1591224876006-be862c0f1d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "imgURL": "https://images.unsplash.com/photo-1673238110633-876516a993c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
                 "ingredients": [
                     "shrimp",
                     "sweet potato",
