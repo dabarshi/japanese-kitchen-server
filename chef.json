@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "picture": "https://example.com/chef1.jpg",
+        "name": "Yoshihiro Murata",
+        "experience": 40,
+        "likes": 15000,
+        "numberOfRecipes": 3,
+        "bio": "Yoshihiro Murata is a third-generation owner and head chef of the world-renowned Kikunoi restaurant in Kyoto. He has dedicated his life to preserving and promoting traditional Japanese cuisine, and has been awarded three Michelin stars for his culinary skills. His signature dishes showcase the delicate balance of flavors and textures that are the hallmark of Kyoto-style cuisine.",
+        "recipes": [
+            {
+                "recipeName": "Miso Soup",
+                "ingredients": ["dashi stock", "miso paste", "tofu", "green onions", "wakame seaweed"],
+                "method": "1. Bring dashi stock to a simmer. 2. Add in tofu and cook for 1-2 minutes. 3. Remove from heat and dissolve in miso paste. 4. Add in wakame seaweed and green onions. 5. Serve hot.",
+                "rating": 4.5
+              },
+              {
+                "recipeName": "Sushi Rolls",
+                "ingredients": ["sushi rice", "nori sheets", "assorted vegetables", "crab sticks", "wasabi"],
+                "method": "1. Cook sushi rice according to package instructions. 2. Lay out nori sheet and spread rice over it. 3. Add in vegetables and crab sticks. 4. Roll tightly, using wasabi to seal the edge. 5. Slice into pieces and serve with soy sauce.",
+                "rating": 4.8
+              },
+              {
+                "recipeName": "Beef Teriyaki",
+                "ingredients": ["sirloin steak", "soy sauce", "sake", "mirin", "sugar"],
+                "method": "1. Mix soy sauce, sake, mirin, and sugar in a bowl. 2. Marinade steak in the mixture for at least 30 minutes. 3. Heat a pan and cook the steak, reserving the marinade. 4. Add in the reserved marinade and simmer until thickened. 5. Serve hot.",
+                "rating": 4.7
+              }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "https://example.com/chef2.jpg",
+        "name": "Jiro Ono",
+        "experience": 70,
+        "likes": 20000,
+        "numberOfRecipes": 5,
+        "bio": "Jiro Ono is an  acclaimed sushi chef and owner of the three Michelin star restaurant Sukiyabashi Jiro in Tokyo. He has devoted his entire life to the art of sushi making, and is renowned for his uncompromising standards and attention to detail. Despite his age, he continues to work tirelessly to maintain the quality and consistency of his restaurant's sushi."
+    },
+    {
+        "id": 3,
+        "picture": "https://example.com/chef3.jpg",
+        "name": "Hiroyuki Sakai",
+        "experience": 45,
+        "likes": 12000,
+        "numberOfRecipes": 8,
+        "bio": "Hiroyuki Sakai is a renowned French-trained Japanese chef and owner of the two Michelin star restaurant La Rochelle in Japan. He is widely known for his creative and innovative dishes that blend French and Japanese culinary traditions. He has also been a regular on the Japanese cooking competition show Iron Chef, where he has achieved great success."
+    },
+    {
+        "id": 4,
+        "picture": "https://example.com/chef4.jpg",
+        "name": "Masaharu Morimoto",
+        "experience": 35,
+        "likes": 18000,
+        "numberOfRecipes": 9,
+        "bio": "Masaharu Morimoto is a globally recognized chef, restaurateur, and media personality. He is best known for his fusion cuisine that blends Japanese and Western cooking techniques and ingredients. He has several restaurants around the world, including the popular Morimoto in New York City, and has been featured on numerous cooking shows and competitions."
+    },
+    {
+        "id": 5,
+        "picture": "https://example.com/chef5.jpg",
+        "name": "Nobu Matsuhisa",
+        "experience": 50,
+        "likes": 25000,
+        "numberOfRecipes": 7,
+        "bio": "Nobu Matsuhisa is a celebrity chef and restaurateur who has brought Japanese cuisine to a global audience. He is the founder of the Nobu restaurant chain, which has locations in over 40 cities around the world. He is known for his innovative and eclectic dishes that fuse Japanese and South American flavors, as well as his use of premium ingredients like wagyu beef and uni."
+    },
+    {
+        "id": 6,
+        "picture": "https://example.com/chef6.jpg",
+        "name": "Tetsuya Wakuda",
+        "experience": 30,
+        "likes": 10000,
+        "numberOfRecipes": 6,
+        "bio": "Tetsuya Wakuda is a highly acclaimed Australian-based Japanese chef who has been recognized with numerous awards and accolades. He is the owner and head chef of Tetsuya's, a fine dining restaurant in Sydney that has been awarded three Michelin stars. His signature dishes are characterized by their simplicity and focus on the purity of flavors. He is also known for his use of local Australian ingredients in his Japanese-inspired cuisine."
+    }
+]
