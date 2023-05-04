@@ -48,7 +48,7 @@
     },
     {
         "id": 2,
-        "picture": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "picture": "https://images.unsplash.com/photo-1513115118-19f2013a9d39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Jiro Ono",
         "experience": 20,
         "likes": 20000,
@@ -119,9 +119,9 @@
     },
     {
         "id": 3,
-        "picture": "https://images.unsplash.com/photo-1609053211574-186ad46bb212?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "picture": "https://images.unsplash.com/photo-1606921853348-de18ac731b17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Hiroyuki Sakai",
-        "experience": 45,
+        "experience": 25,
         "likes": 12000,
         "numberOfRecipes": 8,
         "bio": "Hiroyuki Sakai is a renowned French-trained Japanese chef and owner of the two Michelin star restaurant La Rochelle in Japan. He is widely known for his creative and innovative dishes that blend French and Japanese culinary traditions. He has also been a regular on the Japanese cooking competition show Iron Chef, where he has achieved great success.",
