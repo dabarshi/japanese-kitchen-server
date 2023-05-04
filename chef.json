@@ -10,22 +10,40 @@
         "recipes": [
             {
                 "recipeName": "Miso Soup",
-                "ingredients": ["dashi stock", "miso paste", "tofu", "green onions", "wakame seaweed"],
+                "ingredients": [
+                    "dashi stock",
+                    "miso paste",
+                    "tofu",
+                    "green onions",
+                    "wakame seaweed"
+                ],
                 "method": "1. Bring dashi stock to a simmer. 2. Add in tofu and cook for 1-2 minutes. 3. Remove from heat and dissolve in miso paste. 4. Add in wakame seaweed and green onions. 5. Serve hot.",
                 "rating": 4.5
-              },
-              {
+            },
+            {
                 "recipeName": "Sushi Rolls",
-                "ingredients": ["sushi rice", "nori sheets", "assorted vegetables", "crab sticks", "wasabi"],
+                "ingredients": [
+                    "sushi rice",
+                    "nori sheets",
+                    "assorted vegetables",
+                    "crab sticks",
+                    "wasabi"
+                ],
                 "method": "1. Cook sushi rice according to package instructions. 2. Lay out nori sheet and spread rice over it. 3. Add in vegetables and crab sticks. 4. Roll tightly, using wasabi to seal the edge. 5. Slice into pieces and serve with soy sauce.",
                 "rating": 4.8
-              },
-              {
+            },
+            {
                 "recipeName": "Beef Teriyaki",
-                "ingredients": ["sirloin steak", "soy sauce", "sake", "mirin", "sugar"],
+                "ingredients": [
+                    "sirloin steak",
+                    "soy sauce",
+                    "sake",
+                    "mirin",
+                    "sugar"
+                ],
                 "method": "1. Mix soy sauce, sake, mirin, and sugar in a bowl. 2. Marinade steak in the mixture for at least 30 minutes. 3. Heat a pan and cook the steak, reserving the marinade. 4. Add in the reserved marinade and simmer until thickened. 5. Serve hot.",
                 "rating": 4.7
-              }
+            }
         ]
     },
     {
@@ -35,7 +53,69 @@
         "experience": 70,
         "likes": 20000,
         "numberOfRecipes": 5,
-        "bio": "Jiro Ono is an  acclaimed sushi chef and owner of the three Michelin star restaurant Sukiyabashi Jiro in Tokyo. He has devoted his entire life to the art of sushi making, and is renowned for his uncompromising standards and attention to detail. Despite his age, he continues to work tirelessly to maintain the quality and consistency of his restaurant's sushi."
+        "bio": "Jiro Ono is an  acclaimed sushi chef and owner of the three Michelin star restaurant Sukiyabashi Jiro in Tokyo. He has devoted his entire life to the art of sushi making, and is renowned for his uncompromising standards and attention to detail. Despite his age, he continues to work tirelessly to maintain the quality and consistency of his restaurant's sushi.",
+        "recipes": [
+            {
+                "recipeName": "Sushi Rolls",
+                "ingredients": [
+                    "sushi rice",
+                    "nori sheets",
+                    "assorted vegetables",
+                    "crab sticks",
+                    "wasabi"
+                ],
+                "method": "1. Cook sushi rice according to package instructions. 2. Lay out nori sheet and spread rice over it. 3. Add in vegetables and crab sticks. 4. Roll tightly, using wasabi to seal the edge. 5. Slice into pieces and serve with soy sauce.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Teriyaki",
+                "ingredients": [
+                    "sirloin steak",
+                    "soy sauce",
+                    "sake",
+                    "mirin",
+                    "sugar"
+                ],
+                "method": "1. Mix soy sauce, sake, mirin, and sugar in a bowl. 2. Marinade steak in the mixture for at least 30 minutes. 3. Heat a pan and cook the steak, reserving the marinade. 4. Add in the reserved marinade and simmer until thickened. 5. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Tonkatsu",
+                "ingredients": [
+                    "pork cutlet",
+                    "flour",
+                    "eggs",
+                    "panko breadcrumbs",
+                    "vegetable oil"
+                ],
+                "method": "1. Tenderize pork cutlet. 2. Coat in flour, then beaten eggs, then panko breadcrumbs. 3. Fry in vegetable oil until golden brown. 4. Serve hot with tonkatsu sauce and shredded cabbage.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Okonomiyaki",
+                "ingredients": [
+                    "flour",
+                    "eggs",
+                    "cabbage",
+                    "pork belly",
+                    "tenkasu"
+                ],
+                "method": "1. Mix flour, eggs, and water to make batter. 2. Mix in chopped cabbage, sliced pork belly, and tenkasu. 3. Cook on a griddle, flipping once. 4. Top with okonomiyaki sauce, mayonnaise, and bonito flakes.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Yakitori",
+                "ingredients": [
+                    "chicken thighs",
+                    "scallions",
+                    "soy sauce",
+                    "sake",
+                    "sugar"
+                ],
+                "method": "1. Cut chicken thighs and scallions into small pieces. 2. Thread onto skewers. 3. Grill over charcoal, turning frequently. 4. Brush with a mixture of soy sauce, sake, and sugar. 5. Serve hot.",
+                "rating": 4.8
+            },
+        ]
     },
     {
         "id": 3,
@@ -44,7 +124,165 @@
         "experience": 45,
         "likes": 12000,
         "numberOfRecipes": 8,
-        "bio": "Hiroyuki Sakai is a renowned French-trained Japanese chef and owner of the two Michelin star restaurant La Rochelle in Japan. He is widely known for his creative and innovative dishes that blend French and Japanese culinary traditions. He has also been a regular on the Japanese cooking competition show Iron Chef, where he has achieved great success."
+        "bio": "Hiroyuki Sakai is a renowned French-trained Japanese chef and owner of the two Michelin star restaurant La Rochelle in Japan. He is widely known for his creative and innovative dishes that blend French and Japanese culinary traditions. He has also been a regular on the Japanese cooking competition show Iron Chef, where he has achieved great success.",
+        "recipes": [
+            {
+                "recipeName": "Miso Soup",
+                "ingredients": [
+                    "dashi stock",
+                    "miso paste",
+                    "tofu",
+                    "green onions",
+                    "wakame seaweed"
+                ],
+                "method": "1. Bring dashi stock to a simmer. 2. Add in tofu and cook for 1-2 minutes. 3. Remove from heat and dissolve in miso paste. 4. Add in wakame seaweed and green onions. 5. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Sushi Rolls",
+                "ingredients": [
+                    "sushi rice",
+                    "nori sheets",
+                    "assorted vegetables",
+                    "crab sticks",
+                    "wasabi"
+                ],
+                "method": "1. Cook sushi rice according to package instructions. 2. Lay out nori sheet and spread rice over it. 3. Add in vegetables and crab sticks. 4. Roll tightly, using wasabi to seal the edge. 5. Slice into pieces and serve with soy sauce.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Teriyaki",
+                "ingredients": [
+                    "sirloin steak",
+                    "soy sauce",
+                    "sake",
+                    "mirin",
+                    "sugar"
+                ],
+                "method": "1. Mix soy sauce, sake, mirin, and sugar in a bowl. 2. Marinade steak in the mixture for at least 30 minutes. 3. Heat a pan and cook the steak, reserving the marinade. 4. Add in the reserved marinade and simmer until thickened. 5. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Tonkatsu",
+                "ingredients": [
+                    "pork cutlet",
+                    "flour",
+                    "eggs",
+                    "panko breadcrumbs",
+                    "vegetable oil"
+                ],
+                "method": "1. Tenderize pork cutlet. 2. Coat in flour, then beaten eggs, then panko breadcrumbs. 3. Fry in vegetable oil until golden brown. 4. Serve hot with tonkatsu sauce and shredded cabbage.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Okonomiyaki",
+                "ingredients": [
+                    "flour",
+                    "eggs",
+                    "cabbage",
+                    "pork belly",
+                    "tenkasu"
+                ],
+                "method": "1. Mix flour, eggs, and water to make batter. 2. Mix in chopped cabbage, sliced pork belly, and tenkasu. 3. Cook on a griddle, flipping once. 4. Top with okonomiyaki sauce, mayonnaise, and bonito flakes.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Yakitori",
+                "ingredients": [
+                    "chicken thighs",
+                    "scallions",
+                    "soy sauce",
+                    "sake",
+                    "sugar"
+                ],
+                "method": "1. Cut chicken thighs and scallions into small pieces. 2. Thread onto skewers. 3. Grill over charcoal, turning frequently. 4. Brush with a mixture of soy sauce, sake, and sugar. 5. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Miso Cod",
+                "ingredients": [
+                    "black cod fillets",
+                    "miso paste",
+                    "sake",
+                    "mirin",
+                    "sugar"
+                ],
+                "method": "1. Mix miso paste, sake, mirin, and sugar in a bowl. 2. Marinade cod fillets in the mixture for at least 30 minutes. 3. Bake in the oven until cooked through. 4. Serve hot with steamed rice and vegetables.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Tempura",
+                "ingredients": [
+                    "shrimp",
+                    "sweet potato",
+                    "broccoli",
+                    "flour",
+                    "ice water"
+                ],
+                "method": "1. Mix flour and ice water to make batter. 2. Dip shrimp, sweet potato, and broccoli in the batter. 3. Fry in vegetable oil until crispy. 4. Serve hot with tentsuyu dipping sauce.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Gyoza",
+                "ingredients": [
+                    "ground pork",
+                    "cabbage",
+                    "garlic",
+                    "ginger",
+                    "soy sauce"
+                ],
+                "method": "1. Mix ground pork, chopped cabbage, minced garlic, grated ginger, and soy sauce in a bowl. 2. Spoon mixture onto gyoza wrappers. 3. Fold and crimp edges to seal. 4. Pan-fry in oil until crispy. 5. Serve hot with dipping sauce.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Soba Noodle Salad",
+                "ingredients": [
+                    "soba noodles",
+                    "cucumber",
+                    "carrots",
+                    "radishes",
+                    "sesame dressing"
+                ],
+                "method": "1. Cook soba noodles according to package instructions. 2. Rinse under cold water and drain. 3. Toss with sliced cucumber, grated carrots, and sliced radishes. 4. Drizzle with sesame dressing. 5. Serve chilled.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Karaage",
+                "ingredients": [
+                    "chicken thighs",
+                    "soy sauce",
+                    "sake",
+                    "ginger",
+                    "garlic"
+                ],
+                "method": "1. Cut chicken thighs into bite-sized pieces. 2. Marinate in a mixture of soy sauce, sake, ginger, and garlic for at least 30 minutes. 3. Coat in potato starch. 4. Deep-fry in vegetable oil until golden brown. 5. Serve hot with lemon wedges.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Ramen",
+                "ingredients": [
+                    "pork bones",
+                    "chicken bones",
+                    "dried shiitake mushrooms",
+                    "dried kelp",
+                    "noodles"
+                ],
+                "method": "1. Roast pork and chicken bones in the oven until browned. 2. Simmer bones, dried shiitake mushrooms, and dried kelp in water for several hours. 3. Strain broth and season with soy sauce and mirin. 4. Cook noodles separately and divide among bowls. 5. Pour broth over noodles and top with sliced pork, boiled egg, and other toppings as desired.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Chirashi Sushi",
+                "ingredients": [
+                    "sushi rice",
+                    "sashimi-grade fish",
+                    "avocado",
+                    "cucumber",
+                    "shiso leaves"
+                ],
+                "method": "1. Cook sushi rice and let cool. 2. Slice sashimi-grade fish into bite-sized pieces. 3. Slice avocado and cucumber. 4. Place rice in a bowl and top with fish, avocado, cucumber, and shiso leaves. 5. Serve with soy sauce and wasabi.",
+                "rating": 4.7
+            }
+        ]
     },
     {
         "id": 4,
@@ -52,8 +290,46 @@
         "name": "Masaharu Morimoto",
         "experience": 35,
         "likes": 18000,
-        "numberOfRecipes": 9,
-        "bio": "Masaharu Morimoto is a globally recognized chef, restaurateur, and media personality. He is best known for his fusion cuisine that blends Japanese and Western cooking techniques and ingredients. He has several restaurants around the world, including the popular Morimoto in New York City, and has been featured on numerous cooking shows and competitions."
+        "numberOfRecipes": 3,
+        "bio": "Masaharu Morimoto is a globally recognized chef, restaurateur, and media personality. He is best known for his fusion cuisine that blends Japanese and Western cooking techniques and ingredients. He has several restaurants around the world, including the popular Morimoto in New York City, and has been featured on numerous cooking shows and competitions.",
+        "recipes": [
+            {
+                "recipeName": "Karaage",
+                "ingredients": [
+                    "chicken thighs",
+                    "soy sauce",
+                    "sake",
+                    "ginger",
+                    "garlic"
+                ],
+                "method": "1. Cut chicken thighs into bite-sized pieces. 2. Marinate in a mixture of soy sauce, sake, ginger, and garlic for at least 30 minutes. 3. Coat in potato starch. 4. Deep-fry in vegetable oil until golden brown. 5. Serve hot with lemon wedges.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Ramen",
+                "ingredients": [
+                    "pork bones",
+                    "chicken bones",
+                    "dried shiitake mushrooms",
+                    "dried kelp",
+                    "noodles"
+                ],
+                "method": "1. Roast pork and chicken bones in the oven until browned. 2. Simmer bones, dried shiitake mushrooms, and dried kelp in water for several hours. 3. Strain broth and season with soy sauce and mirin. 4. Cook noodles separately and divide among bowls. 5. Pour broth over noodles and top with sliced pork, boiled egg, and other toppings as desired.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Chirashi Sushi",
+                "ingredients": [
+                    "sushi rice",
+                    "sashimi-grade fish",
+                    "avocado",
+                    "cucumber",
+                    "shiso leaves"
+                ],
+                "method": "1. Cook sushi rice and let cool. 2. Slice sashimi-grade fish into bite-sized pieces. 3. Slice avocado and cucumber. 4. Place rice in a bowl and top with fish, avocado, cucumber, and shiso leaves. 5. Serve with soy sauce and wasabi.",
+                "rating": 4.7
+            }
+        ]
     },
     {
         "id": 5,
@@ -61,8 +337,57 @@
         "name": "Nobu Matsuhisa",
         "experience": 50,
         "likes": 25000,
-        "numberOfRecipes": 7,
-        "bio": "Nobu Matsuhisa is a celebrity chef and restaurateur who has brought Japanese cuisine to a global audience. He is the founder of the Nobu restaurant chain, which has locations in over 40 cities around the world. He is known for his innovative and eclectic dishes that fuse Japanese and South American flavors, as well as his use of premium ingredients like wagyu beef and uni."
+        "numberOfRecipes": 4,
+        "bio": "Nobu Matsuhisa is a celebrity chef and restaurateur who has brought Japanese cuisine to a global audience. He is the founder of the Nobu restaurant chain, which has locations in over 40 cities around the world. He is known for his innovative and eclectic dishes that fuse Japanese and South American flavors, as well as his use of premium ingredients like wagyu beef and uni.",
+        "recipes": [
+            {
+                "recipeName": "Karaage",
+                "ingredients": [
+                    "chicken thighs",
+                    "soy sauce",
+                    "sake",
+                    "ginger",
+                    "garlic"
+                ],
+                "method": "1. Cut chicken thighs into bite-sized pieces. 2. Marinate in a mixture of soy sauce, sake, ginger, and garlic for at least 30 minutes. 3. Coat in potato starch. 4. Deep-fry in vegetable oil until golden brown. 5. Serve hot with lemon wedges.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Ramen",
+                "ingredients": [
+                    "pork bones",
+                    "chicken bones",
+                    "dried shiitake mushrooms",
+                    "dried kelp",
+                    "noodles"
+                ],
+                "method": "1. Roast pork and chicken bones in the oven until browned. 2. Simmer bones, dried shiitake mushrooms, and dried kelp in water for several hours. 3. Strain broth and season with soy sauce and mirin. 4. Cook noodles separately and divide among bowls. 5. Pour broth over noodles and top with sliced pork, boiled egg, and other toppings as desired.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Chirashi Sushi",
+                "ingredients": [
+                    "sushi rice",
+                    "sashimi-grade fish",
+                    "avocado",
+                    "cucumber",
+                    "shiso leaves"
+                ],
+                "method": "1. Cook sushi rice and let cool. 2. Slice sashimi-grade fish into bite-sized pieces. 3. Slice avocado and cucumber. 4. Place rice in a bowl and top with fish, avocado, cucumber, and shiso leaves. 5. Serve with soy sauce and wasabi.",
+                "rating": 4.7
+            },            {
+                "recipeName": "Tempura",
+                "ingredients": [
+                    "shrimp",
+                    "sweet potato",
+                    "broccoli",
+                    "flour",
+                    "ice water"
+                ],
+                "method": "1. Mix flour and ice water to make batter. 2. Dip shrimp, sweet potato, and broccoli in the batter. 3. Fry in vegetable oil until crispy. 4. Serve hot with tentsuyu dipping sauce.",
+                "rating": 4.7
+            }
+        ]
     },
     {
         "id": 6,
@@ -71,6 +396,55 @@
         "experience": 30,
         "likes": 10000,
         "numberOfRecipes": 6,
-        "bio": "Tetsuya Wakuda is a highly acclaimed Australian-based Japanese chef who has been recognized with numerous awards and accolades. He is the owner and head chef of Tetsuya's, a fine dining restaurant in Sydney that has been awarded three Michelin stars. His signature dishes are characterized by their simplicity and focus on the purity of flavors. He is also known for his use of local Australian ingredients in his Japanese-inspired cuisine."
+        "bio": "Tetsuya Wakuda is a highly acclaimed Australian-based Japanese chef who has been recognized with numerous awards and accolades. He is the owner and head chef of Tetsuya's, a fine dining restaurant in Sydney that has been awarded three Michelin stars. His signature dishes are characterized by their simplicity and focus on the purity of flavors. He is also known for his use of local Australian ingredients in his Japanese-inspired cuisine.",
+        "recipes": [
+            {
+                "recipeName": "Karaage",
+                "ingredients": [
+                    "chicken thighs",
+                    "soy sauce",
+                    "sake",
+                    "ginger",
+                    "garlic"
+                ],
+                "method": "1. Cut chicken thighs into bite-sized pieces. 2. Marinate in a mixture of soy sauce, sake, ginger, and garlic for at least 30 minutes. 3. Coat in potato starch. 4. Deep-fry in vegetable oil until golden brown. 5. Serve hot with lemon wedges.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Ramen",
+                "ingredients": [
+                    "pork bones",
+                    "chicken bones",
+                    "dried shiitake mushrooms",
+                    "dried kelp",
+                    "noodles"
+                ],
+                "method": "1. Roast pork and chicken bones in the oven until browned. 2. Simmer bones, dried shiitake mushrooms, and dried kelp in water for several hours. 3. Strain broth and season with soy sauce and mirin. 4. Cook noodles separately and divide among bowls. 5. Pour broth over noodles and top with sliced pork, boiled egg, and other toppings as desired.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Chirashi Sushi",
+                "ingredients": [
+                    "sushi rice",
+                    "sashimi-grade fish",
+                    "avocado",
+                    "cucumber",
+                    "shiso leaves"
+                ],
+                "method": "1. Cook sushi rice and let cool. 2. Slice sashimi-grade fish into bite-sized pieces. 3. Slice avocado and cucumber. 4. Place rice in a bowl and top with fish, avocado, cucumber, and shiso leaves. 5. Serve with soy sauce and wasabi.",
+                "rating": 4.7
+            },            {
+                "recipeName": "Tempura",
+                "ingredients": [
+                    "shrimp",
+                    "sweet potato",
+                    "broccoli",
+                    "flour",
+                    "ice water"
+                ],
+                "method": "1. Mix flour and ice water to make batter. 2. Dip shrimp, sweet potato, and broccoli in the batter. 3. Fry in vegetable oil until crispy. 4. Serve hot with tentsuyu dipping sauce.",
+                "rating": 4.7
+            }
+        ]
     }
 ]
